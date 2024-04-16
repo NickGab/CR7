@@ -13,6 +13,7 @@ function verificarTime() {
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");
+    
     }
   }
 }
