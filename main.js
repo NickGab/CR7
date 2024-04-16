@@ -5,10 +5,10 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual o melhor time?");
+    var respostaTime = prompt("Qual o Maior Artilheiro Da Champions League?");
 
     
-    if (respostaTime.toLowerCase() === "athlético pr") {
+    if (respostaTime.toLowerCase() === "Cristiano Ronaldo") {
       alert("Isso mesmo! O Cristiano Ronaldo é o maior artilheiro da Champions League SIIIUU!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
