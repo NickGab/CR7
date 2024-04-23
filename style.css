@@ -1,5 +1,8 @@
 h1 {color: brown;
 }
+body {background-color: rgb(53, 42, 199);   
+}
+
 #texto-animado {
     font-family: 'Arial', sans-serif;
     font-size: 48px;
@@ -29,9 +32,7 @@ h1 {color: brown;
     100% {
         transform: translateX(0);
     }
-    body {background-color: rgb(53, 42, 199);
     
-    }
 
     
 }
